@@ -1,6 +1,6 @@
 {
   "name": "@web-lite/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prettier config to be used in Weblite products",
   "main": "index.json",
   "repository": "https://github.com/weblite-im/prettier-config.git",
